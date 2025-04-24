@@ -6,7 +6,7 @@
 - ``Python``
 - ``Pandas - análise dos dados``
 - ``Matplotlib - Visualização gráfica``
-- ``Jupyter Notebook pelo Google Collab - Análise dos dados, Análise gráfica. documentação e relatório final``
+- ``Jupyter Notebook pelo Google Colab - Análise dos dados, Análise gráfica. documentação e relatório final``
 
 ## :clipboard: Métricas
   Para este projeto foram analisadas as seguintes informações de cada loja:
